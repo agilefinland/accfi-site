@@ -1,0 +1,17 @@
+highlighter: pygments
+permalink: /news/:title
+sass:
+    style: :compressed
+    sass_dir: styles/_snippets
+collections:
+- sections
+- participants
+defaults:
+    -
+        scope:
+            path: "_posts"
+        values:
+            layout: "news"
+navigation:
+  - title : "Home"
+    url   : "/"
