@@ -48,6 +48,7 @@ $section-border-color: $cool-gray;
 @import "footer";
 @import "main-site";
 @import "bootstrap-sass/assets/stylesheets/bootstrap";
+@import "people";
 
 
 /* =============================================================================
@@ -55,11 +56,11 @@ $section-border-color: $cool-gray;
 section { position: relative; clear: both; }
 aside { font-size: 0.75em; }
    ========================================================================== */
-body 
+body
 {
     width: 100%;
     background: rgba($shark, 0.1);
-	
+
     font-family: 'Source Sans Pro', sans-serif;
     color: $main-text-color;
     padding: 0;
@@ -68,13 +69,13 @@ body
 
 
 h2,h3,h4 {
-	
-	a 
+
+	a
 	{
 		color: $link-color;
 
 		&.visited {
-			color: $link-color-visited;			
+			color: $link-color-visited;
 		}
 	}
 }
@@ -83,10 +84,10 @@ h2,h3,h4 {
 main.site-main {
 //    width: 960px;
     margin: 0 auto;
-    overflow: hidden;	
+    overflow: hidden;
 }
 
-*, *:before, *:after 
+*, *:before, *:after
 {
     -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
@@ -112,10 +113,10 @@ main.site-main {
   padding: 2px 6px 2px 6px;
   border-radius: 5px;
   border-top: 1px solid $silver;
-  border-right: 3px solid $darkgray; 
+  border-right: 3px solid $darkgray;
   border-bottom: 3px solid $darkgray;
   border-left: 1px solid $silver;
-  
+
   &:visited {
   	color: $shark;
   }
@@ -125,7 +126,7 @@ a
 {
     cursor: pointer;
     text-decoration: none;
-    
+
     &:hover
     {
         text-decoration: underline;
@@ -173,7 +174,7 @@ p
     border-top: 5px solid $section-border-color;
     width: 100%;
     float: left;
-    
+
 
 	hgroup {
 		h2 {
@@ -181,11 +182,11 @@ p
 			font-weight: bold;
 		  	line-height: 0.7;
 		  	margin-top: 0;
-			
+
 			span {
 				font-size: 0.666em;
 				font-weight: normal;
-				
+
 				.count {
 					font-size: 2em;
 					float: left;
@@ -203,16 +204,16 @@ p
         font-size: 3em;
         margin-top: 0;
     }
-    
+
     ul
     {
-      list-style: none;  
+      list-style: none;
     }
-	
+
 
 }
 
-hr 
+hr
 {
     display: block;
     height: 1px;
@@ -253,7 +254,7 @@ p
     top: 0px;
     left: 0px;
     right: 0px;
-    
+
     &.frontpage
     {
         height: 1000px;
@@ -262,8 +263,8 @@ p
         background-size: cover;
         z-index: -1;
     }
-    
-    
+
+
 }
 
 .column {
@@ -319,7 +320,7 @@ p
    Print styles.
    Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
    ========================================================================== */
- 
+
 @media print {
   * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; -webkit-text-stroke: 0 !important; } /* Black prints faster: sanbeiji.com/archives/953 */
   body { opacity: 1 !important; }

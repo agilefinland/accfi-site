@@ -5,6 +5,7 @@ sass:
     sass_dir: styles/_snippets
 collections:
 - sections
+- organizers
 - participants
 defaults:
     -
