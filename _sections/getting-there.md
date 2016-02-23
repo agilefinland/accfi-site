@@ -1,5 +1,5 @@
 ---
-order_no: 13
+order_no: 2
 about: about
 contained: true
 title: Price
@@ -12,4 +12,3 @@ This event will fit only 120 participants, so book your spot soon to join the ev
 <a class="button buy-ticket" target="_blank" href="https://holvi.com/shop/agilefinland/">Get your ticket here!</a>
 
 Follow [@agilefinland](https://twitter.com/agilefinland) for #accfi on twitter to stay tuned on the news.
-
