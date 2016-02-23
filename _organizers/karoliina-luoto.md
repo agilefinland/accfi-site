@@ -4,6 +4,6 @@ title: Organizer
 location: Finland
 id: karoliina-luoto
 twitter: totoroki
-image: https://files.slack.com/files-pri/T02B3J599-F0NL64W6S/karo1_v__rikorjattu.jpg
+image: https://pbs.twimg.com/profile_images/75936655/Karo.jpg
 email:
 ---
