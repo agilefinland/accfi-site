@@ -36,10 +36,13 @@
 
 .organizer
 {
+    width: 200px;
+
     img
     {
         max-width: 200px;
         border-radius: 30px;
         display: block;
+        margin: auto;
     }
 }
