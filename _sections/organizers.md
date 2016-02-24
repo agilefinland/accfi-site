@@ -1,7 +1,9 @@
 ---
-order_no: 5
+order_no: 12
 title: "Organizers"
 ---
 <ol class="organizers-list">
   {% include sections/organizers-list.md organizers=site.organizers %}
 </ol>
+
+Want to join the organizers? Ping [accfi@agile.fi](mailto:accfi@agile.fi) or any of the organizers.
