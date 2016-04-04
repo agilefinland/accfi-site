@@ -4,6 +4,6 @@ title: Organizer
 location: Finland
 id: pascal-papathemelis
 twitter: Papathemelis
-image: https://abs.twimg.com/sticky/default_profile_images/default_profile_4_200x200.png
+image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/10e/143/11275d6.jpg
 email:
 ---
