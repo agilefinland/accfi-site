@@ -1,3 +1,17 @@
 .site-main {
 	padding: 0 0 0 0;
 }
+
+.img-holder {
+  width: 50%;
+  float: left;
+
+  img{
+    max-width: 510px;
+  }
+}
+
+.images {
+  padding: 20px 0
+  display: block;
+}

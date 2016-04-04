@@ -1,8 +1,8 @@
 ---
-name: Erwann Cleudic
-keynote: true
-id: erwann-cleudic
-twitter: -
+name: Geoffrey Bache
+keynote: false
+id: geoffrey-bache
+twitter: 
 image:
 ---
 text here

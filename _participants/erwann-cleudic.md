@@ -1,8 +1,8 @@
 ---
 name: Erwann Cleudic
-keynote: true
+keynote: false
 id: erwann-cleudic
-twitter: -
+twitter: 
 image:
 ---
 text here
