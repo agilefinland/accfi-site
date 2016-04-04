@@ -1,5 +1,5 @@
 {% assign organizer=include.organizer%}
-  <li class="organizer">
+  <li class="organizer people">
     <img src="{{ organizer.image }}" />
     <span class="name">{{ organizer.name }}</span>
     {% if organizer.twitter != null  %}

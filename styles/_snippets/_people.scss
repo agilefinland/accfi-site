@@ -1,4 +1,4 @@
-.organizers-list
+.people-list
 {
     list-style: none;
     margin: 0;
@@ -34,10 +34,10 @@
     }
 }
 
-.organizer
+.people
 {
     width: 200px;
-
+    
     img
     {
         max-width: 200px;
@@ -45,4 +45,35 @@
         display: block;
         margin: auto;
     }
+
+    &.people-you {
+      a i {
+        text-color: $main-text-color; 
+      }
+    }
+}
+.push-center:before {
+  content:'';
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+
+  .center {
+    display:inline-block;
+    vertical-align: middle;
+  }
+}
+
+
+.people-image{
+  width: 200px;
+  height: 200px;
+
+  background-color: rgba(47, 128, 148, 0.34);
+  border-radius: 30px;
+  font-size: 2em;
+  
+  i {
+    margin: auto;
+  }
 }

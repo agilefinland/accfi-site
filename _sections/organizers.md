@@ -2,7 +2,7 @@
 order_no: 12
 title: "Organizers"
 ---
-<ol class="organizers-list">
+<ol class="organizers-list people-list">
   {% include sections/organizers-list.md organizers=site.organizers %}
 </ol>
 
