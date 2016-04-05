@@ -11,4 +11,4 @@ We give space for great things to emerge for **people who help others get better
 
 On Friday, we spend the day with **pre-scheduled workshop topics**. Full Saturday and Sunday morning until midday we run an **open space conference**, facilitated by Diana Larsen, Antti Kirjavainen and Karoliina Luoto. It's not all work, we'll make sure there's sessions that take you from head space to physical space too.
 
-The event takes place **20.-22.5.2016** and location is  **[Herrankukkaro](http://herrankukkaro.visualizer360.com/)**. The tickets include getting there from Helsinki or Turku Railway station.
+The event takes place **20.-22.5.2016** and location is  **[Herrankukkaro](http://herrankukkaro.visualizer360.com/)**. The tickets include a ride from Turku to Herrankukkaro.

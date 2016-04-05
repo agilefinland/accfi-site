@@ -5,6 +5,8 @@ contained: true
 title: "Schedule outline"
 ---
 
+The ride from Turku to Herrankukkaro will leave around 11 on Friday. Exact details later. 
+
 Friday we spend on **prescheduled workshops**. You are welcome to join any of the four sessions:
 
 * Diana Larsen: Agile Chartering
@@ -15,3 +17,5 @@ Friday we spend on **prescheduled workshops**. You are welcome to join any of th
 Saturday whole day until Sunday 12.00 is **Open Space**. We co-create the program from the contributions of the participants and can discuss any topics people volunteer for the program in the spirit of open space. 
 
 We break regularly to enjoy the wonderful foods of Herrankukkaro, and enjoy evenings of challenging discussions with each other around the smoke sauna and hot tubs, walks in the great neighborhood or just hangout places around the premises.
+
+The ride back to Turku will leave around 13 on Sunday.
