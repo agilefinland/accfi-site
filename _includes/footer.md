@@ -11,5 +11,6 @@
 <script src="{{ site.baseurl }}/bower_components/jquery/dist/jquery.min.js"></script>  
 <script src="{{ site.baseurl }}/bower_components/modernizr/modernizr.js"></script>
 <script src="{{ site.baseurl }}/javascripts/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}/javascripts/show-more.js"></script>
  </body>
 </html>

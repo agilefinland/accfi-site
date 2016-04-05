@@ -1,11 +1,12 @@
-highlighter: pygments
 permalink: /news/:title
 sass:
     style: :compressed
     sass_dir: styles/_snippets
 collections:
 - sections
+- organizers
 - participants
+- workshops
 defaults:
     -
         scope:
