@@ -1,8 +1,7 @@
 ---
 facilitator: Jani Roman
 id: jani-Roman
-title: Systemic Constellation 
+title: Systemic Constellations
 ---
 
-Lorem Ipsum.. :w
-
+To be added soon.

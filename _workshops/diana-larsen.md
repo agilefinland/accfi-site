@@ -1,7 +1,6 @@
 ---
 facilitator: Diana Larsen
 id: diana-larsen
-title: agile chartering
+title: Agile Chartering
 ---
-Lorem Ipsum.. :w
-
+To be added soon.
