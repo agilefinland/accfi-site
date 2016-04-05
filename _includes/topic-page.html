@@ -1,12 +1,12 @@
-{% assign topic=include.topic %}
+{% assign workshop=include.workshop %}
 
-<section class="main-content text-center topic" id="{{ topic.id }}">
-	<article>
-		<h3 class="title">{{ topic.title }}</h3>
+<article class="col-sm-3  workshop" id="{{ workshop.id }}">
+<h3 class="title">{{ workshop.facilitator}}</h3> <h4>{{ workshop.title }}</h4>
 
-<div class="topic-info">
-	{{ topic.output }}
+<div id="{{ workshop.id }}-excerpt" class="workshop-excerpt">
+  <p>{{ workshop.content | markdownify | remove: "<p>" | replace:'</p>','\n' | truncate: 150, '...' | replace:'\n','</p><p>' }}</p>
+  <a class='show-more-button'>show more</a>
 </div>
- 	</article>
-</section>
+
+</article>
 

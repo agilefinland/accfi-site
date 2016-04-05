@@ -6,6 +6,7 @@ collections:
 - sections
 - organizers
 - participants
+- workshops
 defaults:
     -
         scope:
