@@ -1,7 +1,7 @@
 ---
 facilitator: Llewellyn Falco
 id: llewellyn-falco
-title: technical coaching in mob format
+title: Technical Coaching in Mob Format
 ---
 
 Coaching requires a combination of quickly assessing where the group your coaching is. What the individual needs of each participant are at any given moment and transferring knowledge, skill and habits to the people you’re coaching.
@@ -12,7 +12,7 @@ In short, mobbing allows for 1:1 mentoring experience with an entire group.
 
 Come learn how to facilitate this for technical sessions. This will be an exercise-intensive workshop to give you your first experiences in what it is like to facilitate programming work in this manner.
 
-Some learnings from this session: 
+Some learnings from this session:
 
 * Getting started with a mob
 * Setting up an environment
@@ -20,3 +20,5 @@ Some learnings from this session:
 * Working with code you’re unfamiliar with
 * Optimizing for when you’re gone
 * Coaches Bag of Tricks
+
+Llewellyn Falco is an agile technical coach from California. He has discovered strong-style pairing that is a pairing technique that builds the foundation of mob programming. You can find his pet projects on Githib: ApprovalTests and Teaching Kids Programming. He travels a lot and is a popular speaker on various topics. 
