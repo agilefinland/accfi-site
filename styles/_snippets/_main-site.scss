@@ -15,3 +15,46 @@
   padding: 20px 0;
   display: block;
 }
+
+$header-overlay : rgba(120, 120, 120, 0.02);  
+$header-transparent-gradient-middle-stop : rgba(120, 120, 120, 0.08);  
+$header-transparent-gradient-stop : rgba(120, 120, 120, 0.48);  
+
+.schedule-header {
+  padding: 30px;
+}
+
+.details-open{
+  border-radius: 30px 30px 0 0;
+   
+  background: $header-overlay; 
+  background: -webkit-linear-gradient($header-transparent-gradient-middle-stop, $header-overlay); /* For Safari 5.1 to 6.0 */ 
+  background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */ 
+  background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */ 
+  background: linear-gradient($header-overlay, $header-transparent-gradient-middle-stop ); /* Standard syntax */ 
+}
+
+article.workshop {
+  height: 210px;
+}
+
+
+article.workshop-description {
+
+  &.details-open {
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: 0px;
+    padding-top: 15px;
+    border-radius: 30px;
+    
+
+    background: $header-overlay; 
+    background: -webkit-linear-gradient($header-transparent-gradient-stop,$header-transparent-gradient-middle-stop  ); /* For Safari 5.1 to 6.0 */ 
+    background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */ 
+    background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */ 
+    background: linear-gradient($header-transparent-gradient-middle-stop, $header-transparent-gradient-stop ); /* Standard syntax */ 
+
+  }
+
+}
