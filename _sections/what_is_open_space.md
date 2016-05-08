@@ -1,5 +1,5 @@
 ---
-order_no: 20
+order_no: 2
 title: What is Open Space?
 ---
 
