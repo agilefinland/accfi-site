@@ -13,4 +13,4 @@ On Friday, we spend the day with **pre-scheduled workshop topics**. Full Saturda
 
 The event takes place 20.-22.5.2016 and location is  [Herrankukkaro](http://herrankukkaro.visualizer360.com/panorama). The tickets include a ride from Turku to Herrankukkaro.
 
-Follow [@agilefinland](https://twitter.com/agilefinland) for #accfi on twitter to stay tuned on the news.
+Follow [@agilefinland](https://twitter.com/agilefinland) for [#accfi](https://twitter.com/hashtag/ACCFI?src=hash) on twitter to stay tuned on the news.
