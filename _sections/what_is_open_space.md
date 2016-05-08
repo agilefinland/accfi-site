@@ -7,9 +7,9 @@ title: What is Open Space?
 
 We've all had those ‘magic moments’ at a conference where you meet the right person and have a wonderful  conversation that is just perfect for you.
 
-Open space conferences are focus around having more of these moments.
+Open space conferences focus around having more of these moments.
 
-####How can we increase serendipity?
+<h4>How can we increase serendipity?</h4>
 
 It might seem odd to say we can increase luck. But that exactly what we are here to do. Open space does everything possible to increase your chances of having magic moments. We know that they are here, and together we can find them.
 
