@@ -5,15 +5,15 @@
 
 
 #schedule {
-	
+
 	article {
 		margin-top: 20px;
 		padding-bottom: 15px;
 		padding-top: 25px;
-//		border-top: 5px solid #888b8d;
-		
+		//		border-top: 5px solid #888b8d;
+
 		&:after{
-//			content: "* * * * *";
+			//			content: "* * * * *";
 			margin-bottom: 10px;
 		}
 	}
@@ -24,17 +24,22 @@
 		}
 	}
 
+
+	.workshop-row {
+		height: 250px;
+	}
+
+	.workshop-description{
+
+		padding: 10px 50px;
+	}
+
 	.row {
 
-    &.workshop-description{
-
-      padding: 10px 0;
-      margin-top: -20px;
-    }
 		h3{
 			margin-bottom: 20px;
 		}
-		
+
 		padding: 5px 0;
 
 		.start-time {
@@ -46,27 +51,27 @@
 			padding: 25px 0 0 3px;
 			text-align: left;
 		}
-		
+
 
 		.top-to-bottom {
 			top: 10px;
 			width: 0;
-		    word-wrap: break-word;
+			word-wrap: break-word;
 			text-transform: uppercase;
 			font-size: 1.2em;
 			margin: 0 15px 0 0;
-			
+
 			.lr {
-				
+
 				&:last-child{
 					top: -20px;
 					margin: -55px 0px 0 20px;
 					left: 10px;
 				}
 			}
-		 }
-		
-		
+		}
+
+
 		&.meta{
 			background: rgba( $cyprus, 0.1 );
 
@@ -83,12 +88,12 @@
 			text-transform: uppercase;
 			padding: 20px 0;
 			background: rgba( $cyprus, 0.1 );
-			
+
 			.description {
 				font-size: 1.5em;
 			}
 		}
-		
+
 
 	}
 }

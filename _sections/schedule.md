@@ -43,13 +43,13 @@ Friday is **prescheduled workshops** and Saturday-Sunday is **open space**.
 </div>
 
   </div>
-  <div class=" ">
+  <div class="workshop-row">
   {% for workshop in workshops %}
     {% include topic-page.html workshop=workshop %}
   {% endfor %}
   </div>
 
-  <div class=" workshop-descriptions">
+  <div class="workshop-descriptions">
   {% for workshop in workshops %}
     {% include topic-page-full.md workshop=workshop %}
   {% endfor %}

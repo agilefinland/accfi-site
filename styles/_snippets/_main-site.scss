@@ -67,11 +67,13 @@ $header-transparent-gradient-stop : rgba(120, 120, 120, 0.48);
 }
 
 article.workshop {
-  height: 210px;
+  height: 250px;
 }
 
 
-article.workshop-description {
+
+
+#schedule.article.workshop-description {
 
   &.details-open {
     margin-left: -15px;
