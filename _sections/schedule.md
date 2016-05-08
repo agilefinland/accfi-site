@@ -5,7 +5,7 @@ contained: true
 title: "Schedule outline"
 ---
 
-The ride from Turku to Herrankukkaro will leave around 11 on Friday. Exact details later. 
+The ride from Turku to Herrankukkaro will leave around 11 on Friday. Exact details later.
 
 Friday is **prescheduled workshops** and Saturday-Sunday is **open space**.
 
@@ -155,7 +155,7 @@ Friday is **prescheduled workshops** and Saturday-Sunday is **open space**.
 </div>
 
 <div class="row ">
-  <div class="col-xs-2 col-sm-1 start-time"><time class="start">13:00</time> - <time class="end">14 :00</time> </div>
+  <div class="col-xs-2 col-sm-1 start-time"><time class="start">13:00 - 14:00</time> </div>
   <div class="col-xs-12 hidden-sm col-md-10 description">Bus to Turku</div>
 </div>
 

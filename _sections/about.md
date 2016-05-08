@@ -2,7 +2,7 @@
 order_no: 11
 about: about
 contained: true
-title: What is ACCFI?
+title:  ACCFI Details
 ---
 
 Agile Coach Camp Finland is a **weekend retreat** of brilliant, curious minds sharing and building knowledge together.
