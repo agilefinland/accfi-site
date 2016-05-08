@@ -6,7 +6,28 @@
     text-align: center;
   }
 
+
+  .one-third {
+    width: 33%;
+    float: left;
+
+    img {
+      width: 90%;
+    }
+  }
+
+  .one-fourth{
+    width: 25%;
+    float: left;
+
+    img {
+      width: 90%;
+    }
+  }
+
 }
+
+
 
 .img-holder {
   width: 50%;

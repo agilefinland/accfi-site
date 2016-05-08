@@ -2,6 +2,8 @@
 Web site for Agile Coaching Camp Finland
 
 
+#To test the site locally, run
+'bundle exec jekyll serve --watch'
 
 
 Updating instructions
