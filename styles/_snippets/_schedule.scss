@@ -17,9 +17,15 @@
 			margin-bottom: 10px;
 		}
 	}
-	
+
+	.timetable{
+		.row:nth-child( odd ){
+			background: rgba( $cyprus, 0.1 );
+		}
+	}
+
 	.row {
-		
+
     &.workshop-description{
 
       padding: 10px 0;

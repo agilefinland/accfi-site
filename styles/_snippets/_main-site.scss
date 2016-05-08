@@ -1,5 +1,11 @@
 .site-main {
 	padding: 0 0 0 0;
+
+  .buy-ticket {
+    background-color: #0CE60C;
+    text-align: center;
+  }
+
 }
 
 .img-holder {
@@ -15,6 +21,7 @@
   padding: 20px 0;
   display: block;
 }
+
 
 $header-overlay : rgba(120, 120, 120, 0.02);  
 $header-transparent-gradient-middle-stop : rgba(120, 120, 120, 0.08);  

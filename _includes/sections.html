@@ -4,8 +4,8 @@
 {% for section in sorted_pages | sort:order_no %}	
 {% if section.hide %}
 {% else %}
-    <section id="{{ section.about }}" class="col-md-12 main-content text-center">
-      <h2>{{ section.title }}</h2> 
+    <section id="{{ section.about }}" class="col-md-12 main-content">
+      <h2 class="text-center">{{ section.title }}</h2>
       <p>{{ section.output | markdownify }}</p>
 
     </section>

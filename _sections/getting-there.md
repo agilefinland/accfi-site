@@ -9,7 +9,6 @@ The price of the weekend is 350 euros and it includes the event from Friday to S
 
 This event will fit 120 participants, so book your spot soon to join the event!
 
-<a class="button buy-ticket" target="_blank" href="https://holvi.com/shop/agilefinland/">Get your ticket here!</a>
+<a class="button buy-ticket" target="_blank" href="https://holvi.com/shop/agilefinland/product/a5f25f62ae6fb8ed7f2227ad0f77b6b5/">Get your ticket here!</a>
 
-Follow [@agilefinland](https://twitter.com/agilefinland) for #accfi on twitter to stay tuned on the news.
 

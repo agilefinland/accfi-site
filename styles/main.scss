@@ -169,7 +169,7 @@ p
 
 .main-content
 {
-    padding: 2em;
+    padding: 40px 60px;
     background: rgba($white,0.7);
     margin-bottom: 20px;
     border-top: 5px solid $section-border-color;
@@ -201,9 +201,10 @@ p
 
     h2
     {
-        font-weight: 600;
-        font-size: 3em;
-        margin-top: 0;
+      padding: 0 0 20px 0;
+      font-weight: 600;
+      font-size: 3em;
+      margin-top: 0;
     }
 
     ul
