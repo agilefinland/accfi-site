@@ -6,54 +6,25 @@
 }
 
 .sponsor {
+  margin: 0 7px;
+  padding: 20px;
 	img	 {
 		height: 100px;
 	}
 }
 
+.sponsors {
+  text-align: center;
+}
+
 #sponsor-groups {
-  padding: 0;
-  list-style: none;
   height: 150px;
-  overflow: hidden;
-  position: relative;
   
-  li {
-    height: 195px;
-    width: 100%;
-    position: absolute;
-    display: block;
-    left: 0;
-    top: -200px;
-	
-	
-	&.active { top: 0; }
-	&.next { top: 195px; }
-  }
 }
     
-  #sponsor-groups h3 { margin-top: 0; }
-  #sponsor-groups li .sponsor {
-    display: block;
-    position: relative;
-    margin: 0 7px;
-  }
-  
   #sponsor-groups li .sponsor img {
     border: 8px solid #f5f5f5; 
   }  
-  #sponsor-groups li.active .sponsor { top: 0 !important; }
-  
-  #sponsor-groups li .sponsor:nth-child(1) { top: -400px; }
-  #sponsor-groups li .sponsor:nth-child(2) { top: -300px; }
-  #sponsor-groups li .sponsor:nth-child(3) { top: -200px; }
-  #sponsor-groups li .sponsor:nth-child(4) { top: -100px; }
-  
-  #sponsor-groups li.next .sponsor:nth-child(1) { top: 100px; }
-  #sponsor-groups li.next .sponsor:nth-child(2) { top: 200px; }
-  #sponsor-groups li.next .sponsor:nth-child(3) { top: 300px; }
-  #sponsor-groups li.next .sponsor:nth-child(4) { top: 400px; }
-
   
   /* Transforms for sponsors*/ 
   .csstransforms #sponsor-groups li,
