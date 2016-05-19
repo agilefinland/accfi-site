@@ -127,6 +127,11 @@ Friday is **prescheduled workshops** and Saturday-Sunday is **open space**.
 </div>
 
 <div class="row ">
+  <div class="col-xs-2 col-sm-1 start-time"><time class="start">19:00</time> - <time class="end">20:00</time></div>
+  <div class="col-xs-12 hidden-sm col-md-10 description">Relaxing yoga for who feel like it after sauna.</div>
+</div>
+
+<div class="row ">
 <div class="col-xs-2 col-sm-1 start-time"><time class="start">20:00</time> - <time class="end">23:30</time></div>
 <div class="col-xs-12 hidden-sm col-md-10 description">Koivuniemen Janne's Archipelago buffet. A great dinner in the archipelago style. 20 types on the menu to pick from.</div>
 </div>
@@ -139,6 +144,11 @@ Friday is **prescheduled workshops** and Saturday-Sunday is **open space**.
   <h2 class="col-md-10 col-md-offset-2">Sunday<br><span>May 22<sup>nd</sup></span></h2>
 </hgroup>
 <section class="timetable">
+<div class="row ">
+  <div class="col-xs-2 col-sm-1 start-time"><time class="start">07:30</time> - <time class="end">08:15</time></div>
+  <div class="col-xs-12 hidden-sm col-md-10 description">Energizing yoga for early birds</div>
+</div>
+
 <div class="row ">
   <div class="col-xs-2 col-sm-1 start-time"><time class="start">08:00</time> - <time class="end">09:00</time></div>
   <div class="col-xs-12 hidden-sm col-md-10 description">Breakfast</div>
