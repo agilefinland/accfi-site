@@ -12,5 +12,8 @@ title: Sponsors
 	  <span class="sponsor ">
 	    <a href="http://agile.fi/"><img src="http://agile.fi/wp-content/uploads/2015/02/agile.png" alt="Agile Finland"></a>
 	  </span>
+	  <span class="sponsor ">
+	    <a href="http://siili.com/"><img src="/images/sponsors/SIILI_BRANDMARK_RGB_72dpi.png" alt="Siili Solutions"></a>
+	  </span>
   </p>
 </div>
