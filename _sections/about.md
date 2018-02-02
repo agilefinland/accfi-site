@@ -13,5 +13,5 @@ The event takes place 7.- 9.9.2018. The price of attendance is basically room an
 
 We will open the registration during Spring 2018. There will be a limited amount of places: around 40. 
 
-If you are interested in joining ACCFI 2018, join our mailing list by submitting your email address below to get updates on when the registration opens.
+If you are interested in joining ACCFI 2018, join [our mailing list here](https://groups.google.com/forum/#!forum/accfi-2018-news/join) to get updates on when the registration opens.
 
