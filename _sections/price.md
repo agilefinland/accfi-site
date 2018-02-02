@@ -1,5 +1,6 @@
 ---
 order_no: 12
+hide: true
 about: about
 contained: true
 title: Price
