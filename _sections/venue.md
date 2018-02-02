@@ -1,6 +1,7 @@
 ---
 order_no: 13
 about: about
+hide: true
 contained: true
 title: Herrankukkaro
 ---

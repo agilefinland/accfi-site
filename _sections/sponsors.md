@@ -1,5 +1,6 @@
 ---
 order_no: 113
+hide: true
 about: sponsor-block
 title: Sponsors
 ---

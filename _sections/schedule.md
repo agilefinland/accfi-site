@@ -2,6 +2,7 @@
 order_no: 19
 about: "schedule"
 contained: true
+hide: true
 title: "Schedule outline"
 ---
 
