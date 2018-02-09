@@ -29,6 +29,14 @@
     }
   }
 
+  // mobile screen device overwrites up to iPad landscape width
+  @media screen and (max-width : 768px){
+    .one-third,
+    .one-fourth {
+      min-width: 100%;
+      display:block;
+    }
+  }
 }
 
 

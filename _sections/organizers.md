@@ -6,4 +6,4 @@ title: "Organizers"
   {% include sections/organizers-list.md organizers=site.organizers %}
 </ol>
 
-Want to join the organizers? Ping [accfi@agile.fi](mailto:accfi@agile.fi) or any of the organizers.
+<div class="text-center"> Want to join the organizers? Ping [accfi@agile.fi](mailto:accfi@agile.fi) or any of the organizers.</div>
