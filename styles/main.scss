@@ -35,6 +35,7 @@ $link-color-visited: $blue;
 $link-visited-color: $main-shaft;
 $hover-link-color: $main-shaft;
 $main-border: $danube;
+$highlight-text-color: $white;
 
 
 $nav-link-color: $shark;  //#202129 is very close to $shark!
@@ -120,7 +121,15 @@ main.site-main {
   border-left: 1px solid $silver;
 
   &:visited {
-  	color: $shark;
+  	color: $highlight-text-color;
+  }
+}
+
+.large-button {
+  color: $highlight-text-color;
+  &:visited
+  {
+      color: $highlight-text-color;
   }
 }
 
