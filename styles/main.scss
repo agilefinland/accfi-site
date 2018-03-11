@@ -30,6 +30,7 @@ $blue: #0605FF;
 //functional colors
 
 $main-text-color: $black;  //could be $main-shaft
+$highlight-text-color: $white;
 $link-color: $blue;
 $link-color-visited: $blue;
 $link-visited-color: $main-shaft;
@@ -123,6 +124,14 @@ main.site-main {
   	color: $shark;
   }
 }
+
+.large-button {
+  color: $highlight-text-color;
+  &:visited {
+  	color: $highlight-text-color;
+  }
+}
+    
 
 a
 {

@@ -15,3 +15,5 @@ We will open the registration during Spring 2018. There will be a limited amount
 
 If you are interested in joining ACCFI 2018, join [our mailing list here](https://groups.google.com/forum/#!forum/accfi-2018-news/join) to get updates on when the registration opens.
 
+  <p class="text-center"><a href="https://groups.google.com/forum/#!forum/accfi-2018-news/join" class="btn btn-primary btn-lg large-button">Join our mailing list to get updates!</a></p>
+
