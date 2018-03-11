@@ -53,6 +53,10 @@
     margin-bottom: 25px;
     padding-top: 200px; 
 
+    // mobile screen device overwrites up to iPad landscape width
+    @media screen and (max-width : 768px) {
+        padding-top: 0;
+    }
 }
 
 .front #branding {

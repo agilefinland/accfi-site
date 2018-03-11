@@ -303,6 +303,17 @@ p
   float: left;
 }
 
+@media screen and (max-width: 768px){
+  .main-content {
+    padding: 10px;
+  }
+
+  .one-third,
+  .one-fourth {
+    min-width: 100%;
+    display: block;
+  }
+}
 
 /* =============================================================================
    Non-semantic helper classes
